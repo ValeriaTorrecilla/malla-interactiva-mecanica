@@ -44,7 +44,7 @@ const data = {
         { nombre: "Mecánica de sólidos", creditos: 8, requisitos: [] },
         { nombre: "Modelado de sistemas físicos", creditos: 8, requisitos: [] },
         { nombre: "Manufactura II", creditos: 10, requisitos: ["Manufactura I"] },
-        { nombre: "Mecánica de fluidos I", creditos: 10, requisitos: ["Termodinámica aplicada" & "Sistemas de conversión de energía térmica"] },
+        { nombre: "Mecánica de fluidos I", creditos: 10, requisitos: ["Termodinámica aplicada", "Sistemas de conversión de energía térmica"] },
         { nombre: "Introducción a la economía", creditos: 8, requisitos: [] }
     ],
     "Séptimo semestre": [
